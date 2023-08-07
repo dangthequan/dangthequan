@@ -1,5 +1,5 @@
 ### 💫 About Me: 
------
+#
 
 🚀 I’m currently working on mobile app & website development for JupViec.
 
@@ -13,7 +13,7 @@
 
 
 ### 🍄 Tech Stacks:
------
+#
 
 + Platforms: iOS, Android, Web.
 
