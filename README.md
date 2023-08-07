@@ -1,5 +1,6 @@
 💫 About Me: 
 
+
 🚀 I’m currently working on mobile app & website development for JupViec.
 
 👯 I’m looking to collaborate on mobile app/website development.
@@ -8,12 +9,15 @@
 
 📫 How to reach me: dangthequan@live.com (Email/Linkedin).
 
+
+
+
 🍄 Tech Stacks:
 
-Platforms: iOS, Android, Web.
++ Platforms: iOS, Android, Web.
 
-Frameworks: Native, Flutter, React Native, Nuxt, NextJS...
++ Frameworks: Native, Flutter, React Native, Nuxt, NextJS...
 
-Programming Languages: Objective-C, Swift, Java, Kotlin, Javascript...
++ Programming Languages: Objective-C, Swift, Java, Kotlin, Javascript...
 
-3rd-party Framework & Libraries: CodePush, OneSignal, CleverTap, Firebase...
++ 3rd-party Framework & Libraries: CodePush, OneSignal, CleverTap, Firebase...
