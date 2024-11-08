@@ -1,7 +1,7 @@
 ### 💫 About Me: 
 #
 
-🚀 I’m currently working on mobile app & website development for JupViec.
+🚀 I’m currently working on mobile app & website development for a product-based company.
 
 👯 I’m looking to collaborate on mobile app/website development.
 
